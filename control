@@ -1,0 +1,9 @@
+Package: com.mohammadag.youfademeup
+Name: You Fade Me Up
+Depends: mobilesubstrate, cy+os.ios (>=7.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fade out icons in the app switcher when dragging them vertically
+Maintainer: Mohammad Abu-Garbeyyeh
+Author: Mohammad Abu-Garbeyyeh
+Section: Tweaks
